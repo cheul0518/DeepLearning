@@ -1,1 +1,1 @@
-##Zhang, Lipton, et al "Dive Deep Learning"
+## Zhang, Lipton, et al "Dive Deep Learning"
