@@ -1,3 +1,4 @@
 # DeepLearning
 This repo is for databasing materials that I have been stuyding
-  1. Neural networks and deep learning by Michael Nielsen
+  1. Michael A. Nielsen, "Neural Networks and Deep Learning"
+  2. 
