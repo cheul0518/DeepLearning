@@ -1,1 +1,2 @@
-This sub-repository is to practice MXNet.
+# MXNet
+This sub-repo is for practicing MXNet.
