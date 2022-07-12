@@ -7,6 +7,9 @@
 3. What is the difference between A.I, machine learning, and deep learning?
   - Depth (more than 2 hidden layers in general) and activation functions (making the learning process non-linear)
 
+
+Neural network input size = image size
+
 2. What is the difference between percentron and neuron?
 
 3. Why actionvation functions must have non-linear property?
