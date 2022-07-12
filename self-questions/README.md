@@ -13,3 +13,6 @@ Neural network input size = input image size
 2. What is the difference between percentron and neuron?
 
 3. Why actionvation functions must have non-linear property?
+
+
+Coefficient of determination, Gini coefficient
