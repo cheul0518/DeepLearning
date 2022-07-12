@@ -8,7 +8,7 @@
   - Depth (more than 2 hidden layers in general) and activation functions (making the learning process non-linear)
 
 
-Neural network input size = image size
+Neural network input size = input image size
 
 2. What is the difference between percentron and neuron?
 
