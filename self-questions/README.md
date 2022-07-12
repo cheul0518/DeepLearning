@@ -9,8 +9,13 @@
 
 4. Neural network input size? input image size
 
-5. Why the traing result is different in the same set-up? Cause weights and biases at start is different.
+5. Why do I get different results? (why not deterministic)
+    - Differences in training data: you run the same algorithm on different data. e.g: shuffling
+    - Learning algorithim: some algorithms are stochastic, not deterministic. However it's not truely random. The specific small decisions made by the algorithm during the learning process can vary randomly. and the algorithm learns a slightly different model.
 
+https://machinelearningmastery.com/different-results-each-time-in-machine-learning/#:~:text=2.-,Differences%20Caused%20by%20Training%20Data,of%20the%20machine%20learning%20algorithm.
+    - stochastic evaluation procedures
+    - differences in platform
 
 What is the difference between percentron and neuron?
 
