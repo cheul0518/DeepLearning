@@ -5,7 +5,7 @@
   - Yes, it will becasue gradient descent is $\frac{\partial C}{\partial}$
 
 1. What is the difference between A.I, machine learning, and deep learning?
-  - Depth and activation functions (making the learning process non-linear)
+  - Depth (more than 2 hidden layers in general) and activation functions (making the learning process non-linear)
 
 2. What is the difference between percentron and neuron?
 
