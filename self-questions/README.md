@@ -9,6 +9,8 @@
 
 4. Neural network input size? input image size
 
+5. Why the traing result is different in the same set-up? Cause weights and biases at start is different.
+
 
 What is the difference between percentron and neuron?
 
