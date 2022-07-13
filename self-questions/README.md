@@ -16,7 +16,7 @@
 6. What if accuracy and loss discrepancy occurs? 
     - It depends on the conxext. If the model becomes overconfident in its predictions, for example, then accuracy remains high while loss can drastically increase with a single false prediction. If a dataset's imballanced such as the dataset of apple 99%, pear 1%, then the model would have high accuracy while having high loss.
 
-
+http://www.jussihuotari.com/2018/01/17/why-loss-and-accuracy-metrics-conflict/
 
 8. Accury vs loss: https://www.kaggle.com/general/220823
 
