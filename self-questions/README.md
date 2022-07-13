@@ -13,7 +13,12 @@
     - Differences in training data: you run the same algorithm on different data. e.g: shuffling
     - Learning algorithim: some algorithms are stochastic, not deterministic. However it's not truely random. The specific small decisions made by the algorithm during the learning process can vary randomly. and the algorithm learns a slightly different model.
 
-6. Accury vs loss: https://www.kaggle.com/general/220823
+6. What if accuracy and loss discrepancy occurs? 
+    - It depends on the conxext. If the model becomes overconfident in its predictions, for example, then accuracy remains high while loss can drastically increase with a single false prediction. If a dataset's imballanced such as the dataset of apple 99%, pear 1%, then the model would have high accuracy while having high loss.
+
+
+
+8. Accury vs loss: https://www.kaggle.com/general/220823
 
 https://machinelearningmastery.com/different-results-each-time-in-machine-learning/#:~:text=2.-,Differences%20Caused%20by%20Training%20Data,of%20the%20machine%20learning%20algorithm.
     - stochastic evaluation procedures
