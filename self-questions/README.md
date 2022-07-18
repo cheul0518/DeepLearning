@@ -6,8 +6,6 @@
 
 3. What is the difference between A.I, machine learning, and deep learning?
     - Deep learning is a subset of machine learning, and extracts patters with a use of neural networks. Compared to machine learning, deep learning has hidden layers and activation functions making it universal classifier and approximator with non-linearity.
-    - 
-    - Its charateristics are hidden layers (more than 2) and activation functions that make the learning result non-linear, compared to general machine learning (linear).
 
 4. Neural network input size? input image size
 
