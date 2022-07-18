@@ -30,3 +30,5 @@ Coefficient of determination, Gini coefficient
 Optimization: https://machinelearningmastery.com/adam-optimization-from-scratch/#:~:text=Gradient%20descent%20is%20an%20optimization%20algorithm%20that%20uses%20the%20gradient,of%20partial%20derivatives%2C%20called%20Adam.
 
 Sparse Categorical crossentropy
+
+curse of dimentionality
