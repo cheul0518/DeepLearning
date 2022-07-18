@@ -5,7 +5,9 @@
     - Yes, the model will learn, regardless if preweights and bias are 0. Let's see the case that the loss function is the squared error. For update, $w \leftarrow w - \frac{\eta}{m}\sum_{i\in m}x^{(i)}(w^Tx^{(i)}+b-y^{(i)}), b \leftarrow b - \frac{\eta}{m}\sum_{i\in m}(w^Tx^{(i)}+b-y^{(i)})$. So, $w$ and $b$ won't be zero after the first update, because they are affected by other elements as well as their previous values.
 
 3. What is the difference between A.I, machine learning, and deep learning?
-    - Deep learning is a subset of machine learning. Its charateristics are hidden layers (more than 2) and activation functions that make the learning result non-linear, compared to general machine learning (linear).
+    - Deep learning is a subset of machine learning, and extracts patters with a use of neural networks. Compared to machine learning, deep learning has hidden layers and activation functions making it universal classifier and approximator with non-linearity.
+    - 
+    - Its charateristics are hidden layers (more than 2) and activation functions that make the learning result non-linear, compared to general machine learning (linear).
 
 4. Neural network input size? input image size
 
