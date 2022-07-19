@@ -32,3 +32,5 @@ Optimization: https://machinelearningmastery.com/adam-optimization-from-scratch/
 Sparse Categorical crossentropy
 
 curse of dimentionality
+
+min pooling layer vs max pooling layer
