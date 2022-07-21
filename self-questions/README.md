@@ -36,3 +36,5 @@ curse of dimentionality
 min pooling layer vs max pooling layer
 
 Why not use even-number filter in cnn?
+
+Upsampling?
